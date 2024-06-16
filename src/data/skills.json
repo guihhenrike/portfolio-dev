@@ -1,0 +1,46 @@
+[
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php.png"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Jquery",
+    "imageSrc": "skills/jquery.png"
+  },
+  {
+    "title": "React Native",
+    "imageSrc": "skills/react-native.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "skills/linux.png"
+  },
+  {
+    "title": "Scrum",
+    "imageSrc": "skills/scrum-icon.png"
+  },
+  {
+    "title": "Smtp email",
+    "imageSrc": "skills/smtp-icon.png"
+  }
+]

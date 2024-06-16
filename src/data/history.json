@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Desenvolvedor de Software Jr",
+    "organisation": "NetsFibra",
+    "startDate": "Set, 2023",
+    "endDate": "Jan, 2024",
+    "experiences": ["Desenvolvimento web com PHP", "Gerenciamento de dispositivos"],
+    "imageSrc": "history/netsfibra.png"
+  },
+  {
+    "role": "Analista de Desenvolvimento de Sistemas",
+    "organisation": "Gigatron Franchising",
+    "startDate": "Set, 2022",
+    "endDate": "Ago, 2023",
+    "experiences": ["Desenvolvimento Web com Laravel", "Responsável pelo sistema Agenda Portátil", "Métodologia Ágil Scrum"],
+    "imageSrc": "history/gigatron.png"
+  },
+  {
+    "role": "Analista de Suporte",
+    "organisation": "Excelent Computadores",
+    "startDate": "Jul, 2021",
+    "endDate": "Ago, 2022",
+    "experiences": [
+      "Suporte ao cliente",
+      "Desenvolvimento com Wordpress"
+    ],
+    "imageSrc": "history/excelent.png"
+  }
+]
